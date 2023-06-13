@@ -7,7 +7,7 @@
 - JDK 17
 - IDE STS4 
 - MAVEN
--
+- Docker
 ## Frameworks e Tecnologias:
 - Spring Boot / Data
 - Hibernate
@@ -15,6 +15,11 @@
 
 ## Banco de Dados:
 - H2
+
+## Execute
+- Mvn clean install
+- Dentro do projeto - cd Docker
+- docker-compose up
 
 ## Acesso a api ao brocken
 - http://localhost:9090/
