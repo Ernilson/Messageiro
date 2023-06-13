@@ -21,3 +21,4 @@
 - http://localhost:15672
 
 ## Diagrama do Projeto
+- ![Modelo](https://github.com/Ernilson/Messageiro/assets/30840118/952b3256-4ad1-4990-8453-8e6836bb75af)
